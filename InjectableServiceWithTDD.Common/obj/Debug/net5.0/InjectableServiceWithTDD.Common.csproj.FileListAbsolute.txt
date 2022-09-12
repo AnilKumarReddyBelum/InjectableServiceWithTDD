@@ -1,0 +1,12 @@
+C:\Users\6076838\source\repos\InjectableServiceWithTDD\InjectableServiceWithTDD.Common\bin\Debug\net5.0\InjectableServiceWithTDD.Common.deps.json
+C:\Users\6076838\source\repos\InjectableServiceWithTDD\InjectableServiceWithTDD.Common\bin\Debug\net5.0\InjectableServiceWithTDD.Common.dll
+C:\Users\6076838\source\repos\InjectableServiceWithTDD\InjectableServiceWithTDD.Common\bin\Debug\net5.0\ref\InjectableServiceWithTDD.Common.dll
+C:\Users\6076838\source\repos\InjectableServiceWithTDD\InjectableServiceWithTDD.Common\bin\Debug\net5.0\InjectableServiceWithTDD.Common.pdb
+C:\Users\6076838\source\repos\InjectableServiceWithTDD\InjectableServiceWithTDD.Common\obj\Debug\net5.0\InjectableServiceWithTDD.Common.csproj.AssemblyReference.cache
+C:\Users\6076838\source\repos\InjectableServiceWithTDD\InjectableServiceWithTDD.Common\obj\Debug\net5.0\InjectableServiceWithTDD.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6076838\source\repos\InjectableServiceWithTDD\InjectableServiceWithTDD.Common\obj\Debug\net5.0\InjectableServiceWithTDD.Common.AssemblyInfoInputs.cache
+C:\Users\6076838\source\repos\InjectableServiceWithTDD\InjectableServiceWithTDD.Common\obj\Debug\net5.0\InjectableServiceWithTDD.Common.AssemblyInfo.cs
+C:\Users\6076838\source\repos\InjectableServiceWithTDD\InjectableServiceWithTDD.Common\obj\Debug\net5.0\InjectableServiceWithTDD.Common.csproj.CoreCompileInputs.cache
+C:\Users\6076838\source\repos\InjectableServiceWithTDD\InjectableServiceWithTDD.Common\obj\Debug\net5.0\InjectableServiceWithTDD.Common.dll
+C:\Users\6076838\source\repos\InjectableServiceWithTDD\InjectableServiceWithTDD.Common\obj\Debug\net5.0\ref\InjectableServiceWithTDD.Common.dll
+C:\Users\6076838\source\repos\InjectableServiceWithTDD\InjectableServiceWithTDD.Common\obj\Debug\net5.0\InjectableServiceWithTDD.Common.pdb

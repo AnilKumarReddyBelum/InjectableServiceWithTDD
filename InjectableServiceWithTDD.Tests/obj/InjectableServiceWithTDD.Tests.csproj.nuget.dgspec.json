@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\6076838\\source\\repos\\InjectableServiceWithTDD\\InjectableServiceWithTDD.Tests\\InjectableServiceWithTDD.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\6076838\\source\\repos\\InjectableServiceWithTDD\\InjectableServiceWithTDD.Common\\InjectableServiceWithTDD.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\6076838\\source\\repos\\InjectableServiceWithTDD\\InjectableServiceWithTDD.Common\\InjectableServiceWithTDD.Common.csproj",
+        "projectName": "InjectableServiceWithTDD.Common",
+        "projectPath": "C:\\Users\\6076838\\source\\repos\\InjectableServiceWithTDD\\InjectableServiceWithTDD.Common\\InjectableServiceWithTDD.Common.csproj",
+        "packagesPath": "C:\\Users\\6076838\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\6076838\\source\\repos\\InjectableServiceWithTDD\\InjectableServiceWithTDD.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\6076838\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tr1.jfrog.io/tr1/api/nuget/v3/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Splitio": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\6076838\\source\\repos\\InjectableServiceWithTDD\\InjectableServiceWithTDD.Tests\\InjectableServiceWithTDD.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\6076838\\source\\repos\\InjectableServiceWithTDD\\InjectableServiceWithTDD.Tests\\InjectableServiceWithTDD.Tests.csproj",
+        "projectName": "InjectableServiceWithTDD.Tests",
+        "projectPath": "C:\\Users\\6076838\\source\\repos\\InjectableServiceWithTDD\\InjectableServiceWithTDD.Tests\\InjectableServiceWithTDD.Tests.csproj",
+        "packagesPath": "C:\\Users\\6076838\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\6076838\\source\\repos\\InjectableServiceWithTDD\\InjectableServiceWithTDD.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\6076838\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tr1.jfrog.io/tr1/api/nuget/v3/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\6076838\\source\\repos\\InjectableServiceWithTDD\\InjectableServiceWithTDD.Common\\InjectableServiceWithTDD.Common.csproj": {
+                "projectPath": "C:\\Users\\6076838\\source\\repos\\InjectableServiceWithTDD\\InjectableServiceWithTDD.Common\\InjectableServiceWithTDD.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.7.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

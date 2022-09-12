@@ -1,0 +1,13 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+The Treatment is
+
+@if(Model.IsActive == true) {
+    <span>On</span>
+} else {
+    <span>Off</span>
+}
